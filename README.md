@@ -1,3 +1,12 @@
+# wechaty-chatgpt-example
+
+- Get Tokens here: [Padlocal Token](http://pad-local.com/#/tokens)
+- Fill in USERNAME, PASSWORD and TOKEN in CONFIG.py
+- run docker
+- sh ./start_gateway_docker.sh [TOKEN] (may need to scan QR code to login)
+- run main.py
+
+
 # python-wechaty-template
 
 Python Wechaty Project Template which contains the best practise.

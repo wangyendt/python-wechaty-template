@@ -130,3 +130,7 @@ dmypy.json
 .vscode/
 node_modules/
 .env
+
+.idea
+.wechaty
+.DS_Store
